@@ -1,5 +1,15 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "jp.hadashikick.vcontainer"
+      ]
+    }
+  ],
   "dependencies": {
+    "jp.hadashikick.vcontainer": "1.11.1",
     "com.unity.ide.rider": "3.0.16",
     "com.unity.render-pipelines.universal": "12.1.7",
     "com.unity.test-framework": "1.1.33",
